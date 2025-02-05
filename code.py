@@ -46,12 +46,12 @@ keyboard.keymap = [
     [
         KC.LSFT,  KC.V,   KC.TRNS,   KC.C,   KC.CAPS,   KC.RSFT,   KC.SCROLLLOCK,   KC.HOME,   KC.INS,   KC.PAUS,   KC.PGUP,  KC.DOT,  KC.COMM,  KC.B,  # Fila 1
         KC.TAB, KC.R,  KC.W,   KC.E,   KC.Q,   KC.P,   KC.LBRC,   KC.BSPC,   KC.RBRC,   KC.O,   KC.I,   KC.U, KC.Y,  KC.T,  # Fila 2
-        KC.A,  KC.G,    KC.D,    KC.F,    KC.S,    KC.QUOT,    KC.N6,    KC.UP,    KC.ENT,    KC.SCLN,    KC.L,    KC.K, KC.J, KC.H, # Fila 3
+        KC.A,  KC.G,    KC.D,    KC.F,    KC.S,    KC.QUOT,    KC.TAB,    KC.UP,    KC.ENT,    KC.SCLN,    KC.L,    KC.K, KC.J, KC.H, # Fila 3
         KC.ESC, KC.F4,    KC.F2, KC.F3,    KC.F1, KC.F10, KC.F11, KC.PSCREEN,  KC.F12,  KC.F9, KC.F8, KC.F7, KC.F6,    KC.F5,    # Fila 4 
-        KC.GRAVE, KC.N4,    KC.N2,    KC.N3,    KC.N1,    KC.N0,    KC.MINS,    KC.LSFT,    KC.EQL,    KC.N9,    KC.N8, KC.N7, KC.LSFT,         # Fila 5
-        KC.N5, KC.NLCK,    KC.X,    KC.LALT,    KC.Z,    KC.BSLS,    KC.PENT,    KC.LSFT,    KC.END, KC.DEL,  KC.RALT, KC.PGDN, KC.SLSH,            # Fila 6
-        KC.M, KC.N, KC.P5,  KC.LSFT, KC.APP,  KC.P6, KC.P8, KC.PMNS, KC.PSLS, KC.P7, KC.P4, KC.PPLS, KC.P1,        # Fila 7
-        KC.P2,   KC.P3,   KC.PDOT,   KC.PAST,   KC.SPC,   KC.LSFT,   KC.LSFT, KC.LCTL,  KC.LSFT, KC.RCTL, KC.DOWN, KC.LEFT                       # Fila 8
+        KC.GRAVE, KC.N4,    KC.N2,    KC.N3,    KC.N1,    KC.N0,    KC.MINS,    KC.TRNS,    KC.EQL,    KC.N9,    KC.N8, KC.N7, KC.N6,         # Fila 5
+        KC.N5, KC.NLCK,    KC.X,    KC.LALT,    KC.Z,    KC.BSLS,    KC.PENT,    KC.TRNS,    KC.END, KC.DEL,  KC.RALT, KC.PGDN, KC.SLSH,            # Fila 6
+        KC.M, KC.N, KC.TRNS,  KC.P5, KC.APP,  KC.P6, KC.P8, KC.PMNS, KC.PSLS, KC.P7, KC.P4, KC.PPLS, KC.P1,        # Fila 7
+        KC.P2,   KC.P3,   KC.PDOT,   KC.PAST,   KC.SPC,   KC.TAB,   KC.TRNS, KC.LCTL,  KC.TAB, KC.RCTL, KC.DOWN, KC.LEFT                       # Fila 8
     ],
 ]
 
